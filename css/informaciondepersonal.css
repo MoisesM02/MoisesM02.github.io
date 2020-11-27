@@ -1,0 +1,15 @@
+.img{
+    margin: auto;
+    height: 40vh;
+    width: 45%;
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-image: url("https://www.xovi.com/wp-content/plugins/all-in-one-seo-pack/images/default-user-image.png");
+}
+.container, nav, .row{
+    max-width: 100vw;
+}
+img{
+    height: 100%;
+    width: 100%;
+}
